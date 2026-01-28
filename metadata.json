@@ -1,0 +1,5 @@
+{
+  "name": "SiliconFlow GPU Architect",
+  "description": "A high-performance simulation and visualization dashboard for GPU microarchitecture: Compute Cores, Memory Controllers, and Schedulers.",
+  "requestFramePermissions": []
+}
